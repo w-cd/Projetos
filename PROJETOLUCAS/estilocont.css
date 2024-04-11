@@ -10,9 +10,8 @@ body {
 
 img {
     width: 200px;
-            
-    border-radius: 100px;
-    margin: 30px 43%;
+    border-radius: 20px;
+    margin: 2% 45%;
 }
 
 h1 {
@@ -22,6 +21,13 @@ h1 {
 
 p {
     font-size: 20px;
+}
+
+.insta {
+    text-align: center;
+    color: rgb(184, 220, 255);
+    background-color: rgba(0, 0, 0, 0.432);
+    border-radius: 20px;
 }
 
 <!--headers-->
@@ -55,6 +61,7 @@ a{
 }
 
 .enlarge-onhover:hover {
+    width: 180px;
     text-align: center;
     font-size: xx-large;
 }
